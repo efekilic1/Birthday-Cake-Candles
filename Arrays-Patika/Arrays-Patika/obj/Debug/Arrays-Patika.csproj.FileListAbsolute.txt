@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/Arrays-Patika/Arrays-Patika/bin/Debug/Arrays-Patika.exe
+/Users/muhammedkilic/Projects/Arrays-Patika/Arrays-Patika/bin/Debug/Arrays-Patika.pdb
+/Users/muhammedkilic/Projects/Arrays-Patika/Arrays-Patika/obj/Debug/Arrays-Patika.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/Arrays-Patika/Arrays-Patika/obj/Debug/Arrays-Patika.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/Arrays-Patika/Arrays-Patika/obj/Debug/Arrays-Patika.exe
+/Users/muhammedkilic/Projects/Arrays-Patika/Arrays-Patika/obj/Debug/Arrays-Patika.pdb
